@@ -1,0 +1,20 @@
+{
+  "name": "reactServerRenderingTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^0.12.23",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-jasmine": "^0.1.5",
+    "node-jsx": "^0.11.0"
+  },
+  "dependencies": {
+    "jade": "^1.6.0"
+  }
+}
